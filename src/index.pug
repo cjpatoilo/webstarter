@@ -1,0 +1,47 @@
+extends layout.pug
+
+block title
+
+	title Website Boilerplate - A super simple boilerplate project for websites.
+
+block content
+
+	header.container.container--hero#home
+		h1
+			a(href='http://websiteboilerplate.com' title='Website Boilerplate - A super simple boilerplate project for websites.')
+				img.thumbnail(src='http://websiteboilerplate.com/images/thumbnail.png' alt='Website Boilerplate - A super simple boilerplate project for websites.')
+
+	section.container#examples
+		h5.title
+			| Examples
+		p
+			| You can view more examples of using Website Boilerplate.
+		p
+			ul
+				li
+					a(href='http://websiteboilerplate.com/#why' title='Why its awesome?') Why it's awesome?
+				li
+					a(href='http://websiteboilerplate.com/#getting-started' title='Getting Started') Getting Started
+				li
+					a(href='http://websiteboilerplate.com/#commands' title='Commands') Commands
+				li
+					a(href='http://websiteboilerplate.com/#tips' title='Tips') Tips
+
+	section.container#contributing
+		h5.title
+			| Contributing
+		p
+			| Want to contribute? Follow these
+			= ' '
+			a(href='https://github.com/cjpatoilo/website-starter/blob/master/.github/contributing.md' title='Contributing') recommendations
+			| .
+
+	footer.container#footer
+		p
+			| Designed with ♥ by
+			= ' '
+			a(href='http://twitter.com/cjpatoilo' title='CJ Patoilo') CJ Patoilo
+			| . Licensed under the
+			= ' '
+			a(href='https://github.com/cjpatoilo/website-starter#license' title='MIT License') MIT License
+			| .

@@ -1,0 +1,8 @@
+{
+	"name": "website-starter",
+	"private": "true",
+	"dependencies": {
+		"milligram": "latest",
+		"opbeat-js": "latest"
+	}
+}

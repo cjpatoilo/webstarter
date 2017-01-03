@@ -2,13 +2,13 @@
 
 > A super simple boilerplate project for websites.
 
-[![Travis Status](https://travis-ci.org/cjpatoilo/website-cli.svg?branch=master)](https://travis-ci.org/cjpatoilo/website-cli?branch=master)
-[![AppVeyor Status](https://ci.appveyor.com/api/projects/status/qoj1daayugnrntqa?svg=true)](https://ci.appveyor.com/project/cjpatoilo/website-cli)
-[![Codacy Status](https://img.shields.io/codacy/grade/c46be084d6844c3891d086eee66d6464/master.svg)](https://www.codacy.com/app/cjpatoilo/website-cli/dashboard)
-[![Dependencies Status](https://david-dm.org/cjpatoilo/website-cli.svg)](https://david-dm.org/cjpatoilo/website-cli)
+[![Travis Status](https://travis-ci.org/cjpatoilo/website-starter.svg?branch=master)](https://travis-ci.org/cjpatoilo/website-starter?branch=master)
+[![AppVeyor Status](https://ci.appveyor.com/api/projects/status/jfj3170guu5457wx?svg=true)](https://ci.appveyor.com/project/cjpatoilo/website-starter)
+[![Codacy Status](https://img.shields.io/codacy/grade/3a2c706184fc43939831d3d50e8579a9/master.svg)](https://www.codacy.com/app/cjpatoilo/website-starter/dashboard)
+[![Dependencies Status](https://david-dm.org/cjpatoilo/website-starter.svg)](https://david-dm.org/cjpatoilo/website-starter)
 [![Version Status](https://badge.fury.io/js/website-cli.svg)](https://www.npmjs.com/package/website-cli)
 [![Download Status](https://img.shields.io/npm/dt/website-cli.svg)](https://www.npmjs.com/package/website-cli)
-[![Gitter Chat](https://img.shields.io/badge/gitter-join_the_chat-4cc61e.svg)](https://gitter.im/cjpatoilo/website-boilerplate)
+[![Gitter Chat](https://img.shields.io/badge/gitter-join_the_chat-4cc61e.svg)](https://gitter.im/cjpatoilo/website-starter)
 
 
 ## Why it's awesome?
@@ -27,7 +27,7 @@ $ npm install -g website-cli
 
 ## Usage
 
-Create a new app using the command `website init`, then install dependencies and run with `npm start`.
+Create a new website using the command `website init`, then install dependencies and run with `npm start`.
 
 ```sh
 $ website init new_website
@@ -38,7 +38,7 @@ $ npm start
 
 ## Contributing
 
-Want to contribute? Follow these [recommendations](https://github.com/cjpatoilo/website-cli/blob/master/.github/contributing.md).
+Want to contribute? Follow these [recommendations](https://github.com/cjpatoilo/website-starter/blob/master/.github/contributing.md).
 
 
 ## License

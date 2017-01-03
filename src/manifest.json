@@ -1,0 +1,25 @@
+{
+	"name": "Website Boilerplate",
+	"short_name": "Website Boilerplate",
+	"icons": [
+		{
+			"src": "images/launcher-icon-2x.png",
+			"sizes": "96x96",
+			"type": "image/png"
+		},
+		{
+			"src": "images/launcher-icon-3x.png",
+			"sizes": "144x144",
+			"type": "image/png"
+		},
+		{
+			"src": "images/launcher-icon-4x.png",
+			"sizes": "192x192",
+			"type": "image/png"
+		}
+	],
+	"start_url": "index.html",
+	"background_color": "#ffffff",
+	"theme_color": "#ffffff",
+	"display": "standalone"
+}
