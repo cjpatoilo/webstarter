@@ -2,6 +2,7 @@
 
 > A super simple boilerplate project for websites.
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/3a2c706184fc43939831d3d50e8579a9)](https://www.codacy.com/app/cjpatoilo/website-starter?utm_source=github.com&utm_medium=referral&utm_content=cjpatoilo/website-starter&utm_campaign=badger)
 [![Travis Status](https://travis-ci.org/cjpatoilo/website-starter.svg?branch=master)](https://travis-ci.org/cjpatoilo/website-starter?branch=master)
 [![AppVeyor Status](https://ci.appveyor.com/api/projects/status/jfj3170guu5457wx?svg=true)](https://ci.appveyor.com/project/cjpatoilo/website-starter)
 [![Codacy Status](https://img.shields.io/codacy/grade/3a2c706184fc43939831d3d50e8579a9/master.svg)](https://www.codacy.com/app/cjpatoilo/website-starter/dashboard)
